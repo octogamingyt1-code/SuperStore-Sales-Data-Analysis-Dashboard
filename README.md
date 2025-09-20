@@ -6,10 +6,9 @@ An interactive Power BI dashboard designed to analyze Super Stone's retail sales
 
 
 15 Days Forecast 
-<img width="1405" height="771" alt![Uploading Screenshot 2025-09-21 014351.png…]()
-="Screenshot 2025-09-21 011254" src="https://github.com/user-attachments/assets/213c6d2c-a5ba-4e2f-9995-6ab338e3e082" />
 
-💡 Suggestions for Improvement
+ <img width="1405" height="771" alt="Screenshot 2025-09-21 011254" src="https://github.com/user-attachments/assets/5c4b9226-fb7b-4716-97dc-1a06d8e58e57" />
+💡Suggestions for Improvement
 
 Here are some enhancements that could elevate the dashboard:
 
